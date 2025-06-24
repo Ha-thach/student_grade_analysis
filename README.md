@@ -4,7 +4,7 @@ A simple and interactive web application built with **Streamlit** to analyze and
 
 ## Demo
 
-Try the app live here: **[Student Grade Analysis App](#)** *(https://studentgradeanalysis-cve6pamc9aw9yqvrscvfx3.streamlit.app/)*
+Try the app live here: **[Student Grade Analysis App](https://studentgradeanalysis-cve6pamc9aw9yqvrscvfx3.streamlit.app/)**
 
 ## Features
 
